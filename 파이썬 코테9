@@ -1,0 +1,6 @@
+a=int(input())
+b=float(input())
+c=a+b
+d=c/2
+print(f'a와 b의 합은{c}')
+print(f'a와 b의 평균값은{d}')
