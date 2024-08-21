@@ -1,3 +1,2 @@
-phone = '010-1234-5678'
-new_phone = phone.replace('-','.')
-print(new_phone)
+makit = '동서남북'
+print(makit[::-1])

@@ -1,0 +1,12 @@
+a = 10
+b = 20
+print(a < b)
+print(a > b)
+print(7 > 8)
+print(7 < 8)
+print(1 <= 1)
+print(1 >= 2)
+print(1 == 1)
+print(1 == 2)
+print(1 != 1)
+print(1 != 2)
